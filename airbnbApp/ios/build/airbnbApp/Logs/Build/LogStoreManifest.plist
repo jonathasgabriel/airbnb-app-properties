@@ -1,0 +1,75 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>01C6187C-F728-47FA-AAE5-4EF9F77F6D0C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>01C6187C-F728-47FA-AAE5-4EF9F77F6D0C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>airbnbApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>airbnbApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace airbnbApp with scheme airbnbApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590084882.71246505</real>
+			<key>timeStoppedRecording</key>
+			<real>590084887.71725702</real>
+			<key>title</key>
+			<string>Building workspace airbnbApp with scheme airbnbApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>01C6187C-F728-47FA-AAE5-4EF9F77F6D0C</string>
+		</dict>
+		<key>33DC645A-8CA4-4E05-A75D-F875625D7D8C</key>
+		<dict>
+			<key>className</key>
+			<string>IDECommandLineBuildLog</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>33DC645A-8CA4-4E05-A75D-F875625D7D8C.xcactivitylog</string>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>W</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>airbnbApp project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>airbnbApp</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Building workspace airbnbApp with scheme airbnbApp and configuration Debug</string>
+			<key>timeStartedRecording</key>
+			<real>590078086.30893195</real>
+			<key>timeStoppedRecording</key>
+			<real>590078102.66848099</real>
+			<key>title</key>
+			<string>Building workspace airbnbApp with scheme airbnbApp and configuration Debug</string>
+			<key>uniqueIdentifier</key>
+			<string>33DC645A-8CA4-4E05-A75D-F875625D7D8C</string>
+		</dict>
+	</dict>
+</dict>
+</plist>
